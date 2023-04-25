@@ -1,11 +1,10 @@
 ### Hola, Ashish Pipaliya here 👋
 
 
-- 🔭 I’m currently working on Coverage
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about Flutter or any tech related stuff or even off-topic
+- 🔭 I’m currently working on [Nalle-E AI Art Generator](https://play.google.com/store/apps/details?id=com.caption_mate) and [Mini Canva](https://minicanva.xyz/)
+- 🌱 I spent an average 11 hours a day with Flutter
+- 💬 Ask me about Flutter | NodeJS | Python | ReactJS or any tech related stuff or even off-topic
 - 😄 Pronouns: he, his, him
-- ⚡ Fun fact: noob
 
 **Languages and Tools:** 
 
@@ -19,6 +18,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishpipaliya&show_icons=true&theme=light&line_height=27" alt="Ashish's github stats"/>
 </a>
 
-<a href="https://github.com/ashishpipaliya/saveme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashishpipaliya&repo=saveme&theme=light" />
+
+
+**Featured Project:** 
+
+<a href="https://github.com/ashishpipaliya/minicanva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashishpipaliya&repo=minicanva&theme=light" />
 </a>
