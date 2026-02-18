@@ -1,27 +1,32 @@
-### Hola, Ashish Pipaliya here 👋
+# <p align="center">Ashish Pipaliya</p>
 
+<p align="center">📍 Pune, India | 📱 Senior Flutter Engineer | & FinTech | <a href="https://ashiish.space">Portfolio</a> | <a href="https://linkedin.com/in/ashish-pipaliya">LinkedIn</a></p>
 
-- 🔭 I’m currently working on [Nalle-E AI Art Generator](https://play.google.com/store/apps/details?id=com.caption_mate) and [Mini Canva](https://minicanva.xyz/)
-- 🌱 I spent an average 11 hours a day with Flutter
-- 💬 Ask me about Flutter | NodeJS | Python | ReactJS or any tech related stuff or even off-topic
-- 😄 Pronouns: he, his, him
+---
 
-**Languages and Tools:** 
+### 🚀 About Me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+I am a **Software Engineer** with 5+ years of experience specializing in **Flutter** and **FinTech**. Currently at **NeoSoft**, I've previously scaled high-performance mobile applications like **Verto** to **1.4L+ downloads**.
 
-<a href="https://github.com/ashishpipaliya">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishpipaliya&show_icons=true&theme=light&line_height=27" alt="Ashish's github stats"/>
-</a>
+- ⚡ **Expertise**: Flutter, BLoC, Clean Architecture, Security & Performance.
+- 💻 **Tech Stack**: `Dart`, `Node.js`, `AWS`, `Docker`, `GitHub Actions`.
 
+---
 
+### 🏗️ Some of my projects
 
-**Featured Project:** 
+- 🏛️ [**Rich**](https://github.com/ashishpipaliya/rich) — A showcase of pragmatic clean architecture in Flutter using BLoC and Dependency Injection.
+- 📱 [**Inshorts Flutter**](https://github.com/ashishpipaliya/inshorts_flutter) — A lightweight Flutter package for integrating and accessing the private Inshorts API.
+- 🎨 [**Mini Canva**](https://github.com/ashishpipaliya/minicanva) — Flutter-based automation tool for bulk generating stylized Instagram quote posts.
+- 🤖 [**Naukri Updater**](https://github.com/ashishpipaliya/naukri-updater) — Automation tool built with Bun and Puppeteer to keep your profile active and visible.
+- 🖼️ [**Walli Clone**](https://github.com/ashishpipaliya/walli_clone) — A sleek wallpaper application built with Flutter using the unofficial Walli API.
+- 🏛️ [**All Government Jobs**](https://github.com/ashishpipaliya/all_government_jobs) — Comprehensive Indian government job portal built with Flutter and GetX.
 
-<a href="https://github.com/ashishpipaliya/minicanva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashishpipaliya&repo=minicanva&theme=light" />
-</a>
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://readme-stats-fast.vercel.app/api?username=ashishpipaliya&show_icons=true&theme=radical" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ashishpipaliya&layout=compact&theme=radical" />
+</p>
